@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "url": "https://imagedelivery.net/B1cQ25kkcnI58rsV8pY1ng/2e22ec7b-6811-4efd-40c4-feed79869c00/w=9999",
+      "title": "cxvvcxTitle",
+      "info": "info",
+      "price": 2500123223123,
+      "id": 1
+    },
+    {
+      "url": "ф",
+      "title": "ф",
+      "info": "ф",
+      "price": 231232,
+      "id": 3
+    },
+    {
+      "url": "фывasdasd",
+      "title": "фывasdasd",
+      "info": "фвыasd",
+      "price": 222222123,
+      "id": 4
+    }
+  ]
+}
